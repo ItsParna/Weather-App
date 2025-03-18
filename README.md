@@ -20,9 +20,4 @@ This is a simple Weather App built with HTML, CSS, and JavaScript. It fetches cu
 - JavaScript
 - Api
 
-## Setup and Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
